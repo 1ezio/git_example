@@ -9,4 +9,8 @@ ff
 some more chanes
 
 change1
+<<<<<<< HEAD
 idea branch
+=======
+ after idea
+>>>>>>> 9f0a83f (idea master)
